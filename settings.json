@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Halloflegends.aternos.me:62868",
+    "ip": "Halloflegends.aternos.me",
     "port": 62868,
     "version": "",
     "try-creative": false
