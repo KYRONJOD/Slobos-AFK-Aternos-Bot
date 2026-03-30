@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "HALLBOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "HALLBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Halloflegends.aternos.me:62868",
+    "port": 62868,
     "version": "",
     "try-creative": false
   },
